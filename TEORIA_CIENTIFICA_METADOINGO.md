@@ -478,7 +478,7 @@ int main() {
  * DOCUMENTACIÓN DE PROPIEDAD INTELECTUAL
  * ============================================================================
  * 
- * © 2024 Ing. Jorge Huerta - MetaDoinGO
+ * © 2026 Ing. Jorge Huerta - MetaDoinGO
  * 
  * Este algoritmo implementa la teoría de "Líneas de Tiempo Paralelas de Tokens"
  * desarrollada exclusivamente para el framework MetaDoinGO.
@@ -710,7 +710,7 @@ $$\boxed{Tokens = \frac{h \cdot l \cdot w}{3 \cdot (1 + \beta \cdot n \cdot \eta
 
 ### Declaración de Propiedad Intelectual
 
-> **© 2024 Ing. Jorge Huerta - MetaDoinGO**
+> **© 2026 Ing. Jorge Huerta - MetaDoinGO**
 > 
 > Esta teoría, ecuaciones, algoritmos y metodologías son propiedad intelectual exclusiva del autor. Su uso está permitido para fines académicos y de investigación con la debida atribución. El uso comercial requiere autorización expresa.
 > 
@@ -735,6 +735,6 @@ $$\boxed{Tokens = \frac{h \cdot l \cdot w}{3 \cdot (1 + \beta \cdot n \cdot \eta
 
 *"Un Token de MetaDoinGO son millones de conocimientos optimizados en tiempo, espacio y pensamiento."*
 
-**Ing. Jorge Huerta** | 2024
+**Ing. Jorge Huerta** | 2026
 
 </div>
