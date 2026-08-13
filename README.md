@@ -132,22 +132,6 @@ Datos → Procesamiento Multi-Modelo → Validación → Documentación → Base
 
 ## 📄 Licencia y Propiedad Intelectual
 
-### ⚠️ Evaluación de Licencia Actual (GPL v3)
-
-El repositorio actualmente utiliza la licencia **GNU General Public License v3 (GPL v3)**, la cual:
-
-**✅ VENTAJAS:**
-- Protege la libertad de uso, modificación y distribución
-- Requiere que las modificaciones también sean open source
-- Ampliamente reconocida en la comunidad de software libre
-- Protege contra patentamiento por terceros
-
-**❌ DESVENTAJAS PARA METADOINGO:**
-- **NO protege ideas conceptuales** (solo código implementado)
-- Permite uso comercial sin restricciones económicas
-- No requiere atribución específica en publicaciones académicas
-- No cubre metodologías, fórmulas matemáticas o teorías
-
 ### 🔒 LICENCIA RECOMENDADA: MetaDoinGO Proprietary + Academic Use
 
 **DECISIÓN: SUSTITUIR GPL v3 POR LICENCIA PROPIETARIA FORTALECIDA**
