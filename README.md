@@ -252,14 +252,16 @@ Contacto: Kuboxhubia@gmail.com | WhatsApp: +584123931011
 
 **MetaDoinGO** - Transformando Ideas en Soluciones Autónomas
 
+*Fecha Oficial de Publicación: 12/08/2026*
+
 *"Si tu problema es el tiempo..., ya tienes un problema que no lo vas a resolver con un prompt de AI, sino con Metas separadas en DoinGo con un billón de tokens disponibles."*
 
 **"Un Token de MetaDoinGO son millones de conocimientos optimizados en tiempo, espacio y pensamiento."**
 
 ---
 
-**© 2024 Ing. Jorge Huerta - MetaDoinGO. Todos los Derechos Reservados.**
+**© 2026 Ing. Jorge Huerta - MetaDoinGO. Todos los Derechos Reservados.**
 
-[📄 Licencia Completa](./LICENSE) | [📜 Propiedad Intelectual](#-licencia-y-propiedad-intelectual) | [🔒 Patentes Pendientes](#)
+[📄 Licencia Completa](./LICENSE) | [📜 Propiedad Intelectual](#-licencia-y-propiedad-intelectual) | [🔒 Patentes Pendientes](#) | [🗺️ Mapa Mental](./MAPA_MENTAL_METADOINGO.md)
 
 </div>
