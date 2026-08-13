@@ -356,6 +356,8 @@ graph TD
     style E fill:#f9f,stroke:#333,stroke-width:4px
     style I fill:#ff9,stroke:#333,stroke-width:2px
 
+---
+
 📄 Patentes Pendientes y Propiedad Intelectual
 Este proyecto está protegido bajo propiedad intelectual del Ing. Jorge Huerta. Las siguientes patentes están en proceso de registro internacional:
 PAT-MDG-001: Método de Optimización de Tokens mediante Paralelismo Temporal.
@@ -365,6 +367,8 @@ PAT-MDG-004: Compresión Semántica Fractal (Geometría de Montañas).
 PAT-MDG-005: Validación de Hipótesis en Espacios Vacíos de Tokens.
 
 ⚠️ Aviso Legal: La reproducción no autorizada de estos métodos será perseguida legalmente.
+
+---
 
 📊 Métricas de Éxito y Validación
 
@@ -389,12 +393,13 @@ Ahorro energético global
 60-70%
 65% Proyectado
 
+---
+
 🔗 Enlaces y Documentación
 📚 White Paper Científico Completo
 🧮 Teoría Matemática y Ecuaciones
 🗺️ Roadmap Maestro BC-MDG
 💻 Algoritmos en C++
-
 
 ---
 
