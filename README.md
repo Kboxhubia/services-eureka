@@ -66,8 +66,8 @@ El mejor modelo no es necesariamente el más rápido o el más lento, sino aquel
 │                    META DOINGO PHILOSOPHY                   │
 ├─────────────────────────────────────────────────────────────┤
 │  Meta Do  (...)     → Acción y Ejecución                    │
-│  Meta In  (...+...) → Integración y Síntesis                │
-│  Meta GO  (.+.)     → Resultado y Publicación               │
+│  Meta In  (.+.)     → Integración y Síntesis                │
+│  Meta GO (...+...)  → Resultado y Publicación               │
 └─────────────────────────────────────────────────────────────┘
 ```
 
