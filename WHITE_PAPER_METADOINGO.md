@@ -2,7 +2,7 @@
 
 **Título:** Optimización Asintótica del Razonamiento en LLMs mediante Derivación Temporal de Tokens y Espacios de Contexto Paralelos  
 **Autor:** Ing. Jorge Huerta  
-**Fecha de Emisión:** 12/08/2026  
+**Fecha de Emisión:** 13/08/2026  
 **Estado:** Confidencial / Propiedad Intelectual Registrada  
 **Hash de Integridad:** `9fe23ac859310f4a1085b37708dcd34f9756d9419706ff3a389c298926879b90`
 
